@@ -1,0 +1,8 @@
+.listHeader{
+	color: purple;
+}
+
+#bookTable{
+	width: 30px;
+	overflow: scroll;
+}
